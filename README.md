@@ -3,14 +3,15 @@ Hi, I'm Mohamad Javad — a passionate junior programmer exploring the world of 
 
 🚀 Technologies I've worked with:
 
-HTML
-CSS
-JavaScript
-Regular Expressions (RegEx)
-Git & GitHub
+HTML,
+CSS,
+JavaScript,
+Regular Expressions (RegEx),
+Git & GitHub,
+
 🌱 Currently learning:
 
-React.js
-Tailwind CSS
+React.js,
+Tailwind CSS,
 I'm always curious to learn new skills and build practical projects to sharpen my knowledge.
 Follow my journey as I grow through code, one commit at a time!
