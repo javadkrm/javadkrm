@@ -13,5 +13,7 @@ Git & GitHub,
 
 React.js,
 Tailwind CSS,
+
+
 I'm always curious to learn new skills and build practical projects to sharpen my knowledge.
 Follow my journey as I grow through code, one commit at a time!
