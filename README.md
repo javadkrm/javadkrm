@@ -1,4 +1,5 @@
-💻 Junior Front-End Developer
+💻 Junior Front-End Developer.
+
 Hi, I'm Mohamad Javad — a passionate junior programmer exploring the world of web development.
 
 🚀 Technologies I've worked with:
