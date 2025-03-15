@@ -9,6 +9,7 @@ CSS,
 JavaScript,
 Regular Expressions (RegEx),
 Git & GitHub,
+Python
 
 🌱 Currently learning:
 
