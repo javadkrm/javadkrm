@@ -14,7 +14,7 @@ Python
 🌱 Currently learning:
 
 React.js,
-Tailwind CSS,
+Bootstrap 5,
 
 
 I'm always curious to learn new skills and build practical projects to sharpen my knowledge.
