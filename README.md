@@ -9,12 +9,13 @@ CSS,
 JavaScript,
 Regular Expressions (RegEx),
 Git & GitHub,
-Python
+Python,
+Bootstrap5
 
 🌱 Currently learning:
 
-React.js,
-Bootstrap 5,
+React.js
+
 
 
 I'm always curious to learn new skills and build practical projects to sharpen my knowledge.
