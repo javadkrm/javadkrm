@@ -12,10 +12,7 @@ Git & GitHub,
 Python,
 Bootstrap5
 
-🌱 Currently learning:
-
-React.js
-
+🌱 Currently learning: React.js
 
 
 I'm always curious to learn new skills and build practical projects to sharpen my knowledge.
