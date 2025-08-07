@@ -10,7 +10,8 @@ JavaScript,
 Regular Expressions (RegEx),
 Git & GitHub,
 Python,
-Bootstrap5
+Bootstrap5,
+NPM
 
 🌱 Currently learning: **React.js**
 
