@@ -11,9 +11,8 @@ Regular Expressions (RegEx),
 Git & GitHub,
 Python,
 Bootstrap5,
-NPM
-
-🌱 Currently learning: **React.js**
+NPM,
+React.js
 
 
 I'm always curious to learn new skills and build practical projects to sharpen my knowledge.
