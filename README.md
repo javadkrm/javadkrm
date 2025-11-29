@@ -15,5 +15,4 @@ NPM,
 React.js
 
 
-I'm always curious to learn new skills and build practical projects to sharpen my knowledge.
-Follow my journey as I grow through code, one commit at a time!
+Interested in learning backend & full-stack development as well.
